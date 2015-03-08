@@ -4,8 +4,8 @@
 Commont Type System
 -------------------
 ### References
-* [CTS in Wiki](http://en.wikipedia.org/wiki/Common_Type_System)
-* [CTS in MSDN](https://msdn.microsoft.com/en-us/library/zcx1eb1e(v=vs.100).aspx)
+* [CTS on Wiki](http://en.wikipedia.org/wiki/Common_Type_System)
+* [CTS on MSDN](https://msdn.microsoft.com/en-us/library/zcx1eb1e(v=vs.100).aspx)
 
 C# language
 -----------
