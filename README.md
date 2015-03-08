@@ -9,7 +9,7 @@ Commont Type System
 
 C# language
 -----------
-### Referencse
+### References
 * [C# keywords on MSDN] (https://msdn.microsoft.com/en-us/library/zcx1eb1e(v=vs.100).aspx)
 * Jessie Liberty, *C# Programowanie* (in Polish), Helion, 2005
 
